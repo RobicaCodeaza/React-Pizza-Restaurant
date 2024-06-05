@@ -1,0 +1,4 @@
+//Instructs to use configs previously installed
+{
+  "extends": "react-app"
+}
